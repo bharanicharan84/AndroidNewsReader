@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="articles_business" type="string">
+        https://raw.githubusercontent.com/jvanaria/jvanaria.github.io/master/business.json
+    </item>
+    <item name="articles_entertainment" type="string">
+        https://raw.githubusercontent.com/jvanaria/jvanaria.github.io/master/entertainment.json
+    </item>
+    <item name="articles_top_stories" type="string">
+        https://raw.githubusercontent.com/jvanaria/jvanaria.github.io/master/top-stories.json
+    </item>
+
+</resources>
